@@ -241,7 +241,7 @@ What this means for the table:
   - For these rows, the published figure reflects where the securities are held in custody or where the fund is domiciled. It does not show the nationality of the ultimate owner.
 - **"Possible" rows** are regional financial centers: Hong Kong and Singapore.
 - **Rows with no flag** are not free of custody distortion either. A country's investors may hold through custodians elsewhere. Treasury does not publish how much this applies to any country, including China and Japan.
-- **Bills share is consistent with fund domiciles.** Short-term holdings are concentrated in several flagged jurisdictions: Cayman Islands 45.9% bills, Bermuda 41.4%, Ireland 31.7%. Large official-sector holders hold far fewer bills: Japan 7.3%, China 6.4%, Taiwan 2.2%, Norway 0.3%. The UAE (60.5% bills) is the exception among unflagged rows. All shares are *calculated* from SLT Table 3.
+- **Bills share is consistent with fund domiciles.** Short-term holdings are concentrated in several flagged jurisdictions: Cayman Islands 45.9% bills, Bermuda 41.4%, Ireland 31.7%. Several large holder countries hold far fewer bills: Japan 7.3%, China 6.4%, Taiwan 2.2%, Norway 0.3%. The UAE (60.5% bills) is the exception among unflagged rows. All shares are *calculated* from SLT Table 3.
 
 ---
 
@@ -529,7 +529,7 @@ Z.1 gives only their market values. These holders therefore cannot be placed in 
    - Its book is long: 35.6% of its Treasuries mature in more than 10 years, versus 18.2% of all marketable debt. Its bond holdings are 24.5% below cost.
    - Under its accounting, SOMA is carried at amortized cost, and unrealized losses do not run through its income statement. The exposure is real in market-value terms, but nothing forces the Fed to realize it.
 
-2. **Other large long-duration holders are heavily exposed, but their losses cannot be measured from these sources** because their cost basis is not published.
+2. **Other large holders of long-dated Treasuries are exposed, but their losses cannot be measured from these sources** because their cost basis is not published.
    - Foreign official holders: $3.77T, 90.6% notes and bonds by original maturity.
    - Mutual funds: 99.3% non-bills.
    - Life insurers: 88.9% non-bills.
